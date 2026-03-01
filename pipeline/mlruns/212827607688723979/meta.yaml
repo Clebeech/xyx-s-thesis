@@ -1,0 +1,7 @@
+artifact_location: file:///root/thesis/pipeline/mlruns/212827607688723979
+creation_time: 1772371417567
+experiment_id: '212827607688723979'
+last_update_time: 1772371417567
+lifecycle_stage: active
+name: train_model
+workspace: default

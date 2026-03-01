@@ -1,0 +1,14 @@
+artifact_uri: file:///root/thesis/pipeline/mlruns/153665031792514428/990c7eb3c7e443959243627d3f38e276/artifacts
+end_time: 1772371570361
+entry_point_name: ''
+experiment_id: '153665031792514428'
+lifecycle_stage: active
+run_id: 990c7eb3c7e443959243627d3f38e276
+run_name: mlflow_recorder
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772371531753
+status: 3
+tags: []
+user_id: root

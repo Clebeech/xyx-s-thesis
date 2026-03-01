@@ -1,0 +1,7 @@
+artifact_location: file:///root/thesis/pipeline/mlruns/153665031792514428
+creation_time: 1772371531746
+experiment_id: '153665031792514428'
+last_update_time: 1772371531746
+lifecycle_stage: active
+name: backtest_analysis
+workspace: default
